@@ -1,8 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%
-% Program: Bode Plot
-% Author : L0gic41
-% Date   : 02/08/2020
-%%%%%%%%%%%%%%%%%%%%%%%%
+% Plot the Bode plot of the transfer function
 
 num = [1];
 den = [1 1 1];
