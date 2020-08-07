@@ -1,8 +1,5 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Script: Plotting Functions
-% Author: L0gic41
-% Date  : 04/08/2020
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Plot a function
+
 syms x y
 y = x^2
 fplot(y)
